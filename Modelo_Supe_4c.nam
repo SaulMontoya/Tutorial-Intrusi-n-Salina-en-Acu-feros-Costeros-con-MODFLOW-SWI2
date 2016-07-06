@@ -1,0 +1,17 @@
+# Name File for MODFLOW created on 05/07/2016 by ModelMuse
+LIST             11 Modelo_Supe_4c.lst REPLACE
+DATA(BINARY)      9 Modelo_Supe_4c.cbc REPLACE
+DIS              12 Modelo_Supe_4c.dis OLD
+BAS6             13 Modelo_Supe_4c.bas OLD
+OC               39 Modelo_Supe_4c.oc OLD
+DATA             37 Modelo_Supe_4c.fhd REPLACE
+DATA             38 Modelo_Supe_4c.fdn REPLACE
+PCG              18 Modelo_Supe_4c.pcg OLD
+LPF              14 Modelo_Supe_4c.lpf OLD
+GHB              19 Modelo_Supe_4c.ghb OLD
+WEL              20 Modelo_Supe_4c.wel OLD
+RIV              21 Modelo_Supe_4c.riv OLD
+RCH              24 Modelo_Supe_4c.rch OLD
+EVT              25 Modelo_Supe_4c.evt OLD
+SWI2            168 Modelo_Supe_4c.swi OLD
+DATA(BINARY)    170 Modelo_Supe_4c.zta REPLACE

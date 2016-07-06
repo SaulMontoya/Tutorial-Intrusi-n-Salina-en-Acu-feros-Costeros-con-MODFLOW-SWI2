@@ -1,0 +1,17 @@
+# LPF: Layer Property Flow package file created on 05/07/2016 by ModelMuse version 3.7.1.0.
+     9 -1.000000000000E+020      0 # ILPFCB, HDRY, NPLPF
+     1     1 # LAYTYP
+     0     0 # LAYAVG
+    -1    -1 # CHANI
+     0     0 # LAYVKA
+     0     0 # LAYWET
+CONSTANT     5.000000000000E-005  # HK AluvialSuperior Layer 1
+CONSTANT     1.000000000000E+000  # HANI AluvialSuperior Layer 1
+CONSTANT     5.000000000000E-006  # VKA AluvialSuperior Layer 1
+CONSTANT     1.200000000000E-005  # SS AluvialSuperior Layer 1
+CONSTANT     1.200000000000E-001  # SY AluvialSuperior Layer 1
+CONSTANT     5.000000000000E-005  # HK AluvialInferior Layer 2
+CONSTANT     1.000000000000E+000  # HANI AluvialInferior Layer 2
+CONSTANT     5.000000000000E-006  # VKA AluvialInferior Layer 2
+CONSTANT     1.200000000000E-005  # SS AluvialInferior Layer 2
+CONSTANT     1.200000000000E-001  # SY AluvialInferior Layer 2
